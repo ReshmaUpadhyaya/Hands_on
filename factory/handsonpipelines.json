@@ -1,0 +1,9 @@
+{
+	"name": "handsonpipelines",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec99520f-e97d-45be-9647-eafa2a08e9c7",
+		"tenantId": "479954de-62c9-4c37-b9f1-6a08cbab0aea"
+	}
+}
